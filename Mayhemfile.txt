@@ -2,4 +2,4 @@ project: jumanpp
 target: jpp-jumandic-bootstrap
 
 cmds:
-  - cmd: /samples/is_used @@
+  - cmd: /samples/is_used --color @@
